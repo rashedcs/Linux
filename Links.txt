@@ -1,1 +1,7 @@
 //Link : http://ryanstutorials.net/bash-scripting-tutorial/bash-functions.php
+
+
+
+
+
+

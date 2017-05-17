@@ -1,0 +1,2 @@
+1. install kali linux tool in ubuntu : https://www.youtube.com/watch?v=8VxCWVoZEEE
+2. https://fossbytes.com/install-kali-linux-tools-ubuntu-debian-using-katoolin/

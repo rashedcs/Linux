@@ -5,6 +5,8 @@ Install : https://www.youtube.com/watch?v=tcx2-EkYYDg
 
 Description : https://community.linuxmint.com/tutorial/view/1965  Method 2
 
+
+If problem face : sudo apt-get install network-manager network-manager-openvpn network-manager-openvpn-gnome
 no need below :
 
 Easy i2p : https://geti2p.net/en/download/debian 

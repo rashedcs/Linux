@@ -3,6 +3,7 @@ VpnBook : https://www.youtube.com/watch?v=n3LVCyUzLO4
 
 Install : https://www.youtube.com/watch?v=tcx2-EkYYDg
 
+Description : https://community.linuxmint.com/tutorial/view/1965
 
 no need below :
 
@@ -10,3 +11,74 @@ Easy i2p : https://geti2p.net/en/download/debian
 
 
 freevpn : https://www.youtube.com/watch?v=w4l55JLVo9o
+
+
+
+1- Install Install and OpenVPN client with command
+ 
+sudo apt-get install openvpn
+
+2- Download one of the VPNBook OpenVPN certificate bundles from this website http://www.vpnbook.com/
+Image
+3- Create a folder in your home Extract the OpenVPN certificate bundle to it.
+4- Go to this folder and right click anywher and choose "open in terminal option" then launch OpenVPN client with one of the VPNBook OpenVPN profile with a Command like this: "
+ 
+sudo openvpn --config vpnbook-euro1-tcp443.ovpn
+
+
+Image
+
+you will be asked to enter authentication username and password. Type as shown below:
+ 
+Enter Auth Username:vpnbook
+Enter Auth Password: ch3pERuG
+
+
+Method2:
+Install "network-manager-openvpn network-manager-vpnc":
+
+1- Install OpenVPN client and VPN plugin for network manager with this command
+ 
+sudo apt-get install openvpn  network-manager-openvpn network-manager-vpnc
+
+2- Download one of the VPNBook OpenVPN certificate bundles from this website http://www.vpnbook.com/
+
+
+
+
+3- Create a folder in your home and extract the OpenVPN certificate bundle to it.
+4- Create 3 new empty text documents and call them respectively " ca.crt, certificate.crt, key.key"
+5- Open one of the .ovpn files (All of the .ovpn files are the same, but with different configurations.) with gedit text editor then copy and paste the following respectively:
+
+Copy everything between <ca> </ca> tags and paste into ca.crt file.
+
+Copy everything between <cert> </cert> tags and paste into certificate.crt file.
+
+Copy everything between <key> </key> tags and paste into key.key file.
+
+6- Go to network manager -> Network Connections-> Add->import a saved VPN connection-> Create and choose one of the .ovpn files then import the " ca.crt, certificate.crt, key.key" related to it.
+
+Connection name: choose any name you want
+Gateway: leave it as it is
+Type: Password with Certificates (TLS)
+Username: vpnbook
+Password: ch3pERuG
+User Certificate: choose the certificate.crt file.
+CA Certificate: choose the ca.crt file.
+Private Certificate: choose the key.key file.
+Private Key Password: leave it empty
+
+7- Click the Advanced button. Check the boxes which say:
+
+Use custom gateway port: 443
+Use LZO data compression
+Use a TCP connection
+
+Under Security tab, set Cipher to AES-128-CBC
+
+Note: Advanced settings depend on the .ovpn file you selected), find the ip, port, cipher and so forth at the top of .ovpn file
+
+8. When everything is done, click on the vpn connection you have created and enter the password "ch3pERuG" given here http://www.vpnbook.com/
+
+
+More on this can be found here http://ubuntuhandbook.org/index.php/2014/05/establish-openvpn-connection-ubuntu-1404/

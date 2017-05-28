@@ -1,3 +1,6 @@
 https://www.ostechnix.com/safeeyes-an-useful-linux-utility-that-prevents-eye-strain/
 
 Working in Computer for long hours is pain, and it will definitely affect your eyes. You must take some breaks for your eyes at regular intervals. There are numerous utilities available out there to remind you to take breaks. The one we are going to discuss now is SafeEyes. It is a free and open Source Linux alternative for EyeLeo, a MS Windows-only app. As the name suggests, SafeEyes will protect you from Eye Strain by reminding or forcing you to take breaks after a particular period of time. During the break, it will suggest you some simple exercises like walking for a while, rolling your eyes etc., to relax yourself. If you are a hardcore user who work on computers for long hours, I recommended you to use SafeEyes in your system.
+
+
+packer -S safeeyes

@@ -15,3 +15,26 @@ Easy i2p : https://geti2p.net/en/download/debian
 freevpn : https://www.youtube.com/watch?v=w4l55JLVo9o
 
 
+
+
+
+Uninstall OpenVpn :
+
+Uninstall just openvpn
+sudo apt-get remove openvpn
+This will remove just the openvpn package itself.
+
+Uninstall openvpn and its dependencies
+sudo apt-get remove --auto-remove openvpn
+This will remove the openvpn package and any other dependant packages which are no longer needed.
+
+Purging your config/data too
+If you also want to delete your local/config files for openvpn then this will work.
+
+ Caution! Purged config/data can not be restored by reinstalling the package.
+sudo apt-get purge openvpn
+Or similarly, like this openvpn
+
+sudo apt-get purge --auto-remove openvpn
+
+link : http://installion.co.uk/ubuntu/wily/main/o/openvpn/uninstall/index.html

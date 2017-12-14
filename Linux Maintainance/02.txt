@@ -3,18 +3,44 @@ Problem Name : Grab Boot Loader Repair problem
 Solution: 
  1st method : Somtimes 1st method failed to solve problem
  
- grub rescue> ls
- grub rescue> ls (hd0, msdosn)  #where n is n=1,2,3........
-    file system is .......      #if file system is ex2 then done otherwise repeat check by ls (hd0,msdosn)
- grub rescue> set root=(hd0,msdosn)
- grub rescue> set prefix=(hd0,msdosn)/boot/grub
- grub rescue> insmod normal
- grub rescue> normal
- 
- 
- Then ubutu system is start. After starting we have to go terminal by pressing (Ctrl+Alt+t)
- Write some command:
-    sudo update-grub
-    sudo grub-install/dev/sda
+        grub rescue> ls
+        grub rescue> ls (hd0, msdosn)  #where n is n=1,2,3........
+           file system is .......      #if file system is ex2 then done otherwise repeat check by ls (hd0,msdosn)
+        grub rescue> set root=(hd0,msdosn)
+        grub rescue> set prefix=(hd0,msdosn)/boot/grub
+        grub rescue> insmod normal
+        grub rescue> normal
+
+
+        Then ubutu system is start. After starting we have to go terminal by pressing (Ctrl+Alt+t)
+        Write some command:
+           sudo update-grub
+           sudo grub-install/dev/sda
+
     
-    
+
+  2nd method : Effective method . Install boot loader using live cd/usb . Terminal
+     
+      1. Add boot loader ppa into system
+        sudo add-apt-repository ppa:yannubuntu/boot-repair
+        
+      2. Update the system
+        sudo apt-get update
+        
+      3. Now install boot loader.
+         sudo apt-get install -y boot-repair
+         
+      4. Now search the boot repair to your computer write
+          boot repair
+          
+      5. Select the first option
+          Recommended Repair
+      
+      6. Follow the all instruction and after executing instruction click the forwar button
+         Forward
+     
+     
+     
+ 
+  3rd method:
+

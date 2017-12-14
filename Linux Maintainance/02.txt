@@ -19,7 +19,7 @@ Solution:
 
     
 
-  2nd method : Effective method . Install boot loader using live cd/usb . Terminal
+  2nd method : Effective method . Install boot loader using live cd/usb . Reference : Linuxpitstop
      
       1. Add boot loader ppa into system
         sudo add-apt-repository ppa:yannubuntu/boot-repair
@@ -42,5 +42,5 @@ Solution:
      
      
  
-  3rd method: Terminal Method (howtogeek website)
+  3rd method: Terminal Method . Referenec : howtogeek website
 

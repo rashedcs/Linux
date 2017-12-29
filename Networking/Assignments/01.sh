@@ -1,4 +1,9 @@
-#First Set up individual pc ip address Then follow the individual steps
+Problem Name : Implement static routing  
+
+
+Solution :
+
+First Set up individual pc ip address Then follow the individual steps
 
 
 Step 1:

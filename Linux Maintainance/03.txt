@@ -1,1 +1,4 @@
+Step 1: Download Android Studio from     https://developer.android.com/studio/
 
+Step 2:
+  

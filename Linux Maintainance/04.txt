@@ -5,3 +5,4 @@ Delete from Opt folder :
  Example :  sudo rm -r /opt/android-studio
  Example :  sudo rm -r /Downloads/android-studio
  
+  

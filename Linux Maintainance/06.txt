@@ -1,0 +1,18 @@
+Keep in mid that go to source directory then follow these commands . Present source : pwd
+
+
+Create one directory : 
+  sudo mkdir folder
+  
+  
+Create a sub folder within already created created directory :
+  sudo mkdir folder/subfolder
+  
+Create a child folder and  parent folder at the same time :
+  sudo mkdir -p parent/child
+  
+  
+Create multiple directory : 
+   sudo mkdir folder1 folder2 folder3
+   
+   

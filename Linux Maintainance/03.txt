@@ -1,4 +1,15 @@
 Step 1: Download Android Studio from     https://developer.android.com/studio/
 
-Step 2:
+Step 2: Extract the Android Studio
+
+Step 3: Open terminal and Go to the source folder and move it to opt directory using following commands
+  sudo mv android-studio /opt/
+  
+Step 4: Now install android studio 
+  sudo /opt/android-studio/bin/studio.sh
+  
+  
+  
+Launch the Android Studio software:
+ sudo /opt/android-studio/bin/studio.sh
   

@@ -1,0 +1,9 @@
+Move Sub folder into destination : 
+  sudo mv subfolder / opt
+  sudo mv subfolder/Downloads
+  
+  #keep in mid that go to source directory then follow these commands
+  
+Example :   
+sudo mv android-studio /opt/
+sudo mv android-studio /Downlooads/

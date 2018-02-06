@@ -1,5 +1,7 @@
 Delete from Opt folder : 
-  sudo rm -r /opt/sub_folder
-  
+   sudo rm -r /opt/sub_folder
+   sudo rm -r /Downloads/sub_folder
 
  Example :  sudo rm -r /opt/android-studio
+ Example :  sudo rm -r /Downloads/android-studio
+ 

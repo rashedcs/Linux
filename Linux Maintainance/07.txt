@@ -1,0 +1,13 @@
+Install Eclipse and android development tools :
+  Step 1: Install JDK 
+    sudo apt-get install openjdk-7-jdk
+    
+  Step 2: Install Eclipse
+    sudo apt-get install eclipse
+  
+  Step 3: Install JDT i.e Java Development Tools
+    sudo apt-get install eclipse-jdt
+  
+  Step 4: Install Android Development Tools
+    
+    

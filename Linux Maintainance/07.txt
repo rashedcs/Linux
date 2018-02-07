@@ -15,5 +15,7 @@ Install Eclipse and android development tools :
       Follow the next instructions.....
       
   Step 5: Restart the eclipse and Install Android SDK
-    
+      Mark : Install New SDK
+      
+ Reference : itzgeek.com
     

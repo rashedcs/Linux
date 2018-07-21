@@ -1,0 +1,21 @@
+Unable to fetch some archives, maybe run apt-get update or try with --fix-missing : 
+
+
+
+Try removing content of /var/lib/apt/lists directory:
+
+sudo rm -rf /var/lib/apt/lists/*
+
+then run this:
+
+sudo apt-get update
+
+OR
+Try this:
+
+sudo apt-get clean
+sudo apt-get update
+
+
+Reference : 
+https://stackoverflow.com/questions/38743951/unable-to-fetch-some-archives-maybe-run-apt-get-update-or-try-with-fix-missin

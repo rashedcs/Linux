@@ -4,7 +4,7 @@ Solution:
  1st method : Somtimes 1st method failed to solve problem
  
         grub rescue> ls
-        grub rescue> ls (hd0, msdosn)  #where n is n=1,2,3........
+        grub rescue> ls (hd0,msdosn)  #where n is n=1,2,3........
            file system is .......      #if file system is ex2 then done otherwise repeat check by ls (hd0,msdosn)
         grub rescue> set root=(hd0,msdosn)
         grub rescue> set prefix=(hd0,msdosn)/boot/grub

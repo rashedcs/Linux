@@ -1,1 +1,4 @@
 https://www.quora.com/How-do-I-install-Laravel-in-Ubuntu-OS-14-04-with-XAMPP
+
+
+https://itrendbuzz.com/install-laravel-framework-on-ubuntu/

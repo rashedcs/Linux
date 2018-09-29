@@ -26,3 +26,4 @@ https://itrendbuzz.com/install-laravel-framework-on-ubuntu/
 
 Laravel Commamds :
 1. Make authentication : php artisan make:auth
+2. Make Admin controller in Admin folder : php artisan make:controller Admin/HomeController.php

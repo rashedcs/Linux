@@ -22,3 +22,7 @@ sudo /opt/lampp/lampp stop
 
 
 https://itrendbuzz.com/install-laravel-framework-on-ubuntu/
+
+
+Laravel Commamds :
+1. Make authentication : php artisan make:auth

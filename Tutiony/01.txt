@@ -38,5 +38,11 @@ When 'that' uses a conjunction :
      last verb + ing (No intension) : I saw someone drawing a picture
      to + last verb (Intension)     : I went to hospital to see my ill friend.
      
+     
+     
+Special Rule :
+To be verb + present participle (Active voice case) : Sugar is imported from china.
+To be verb + past participle (Passive voice)  : Company is importing from china.
+     
 
 

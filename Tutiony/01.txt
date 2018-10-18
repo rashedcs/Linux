@@ -29,8 +29,8 @@ When 'that' uses a conjunction :
       
       
       
- When 'before' uses a conjunction :
-      future indefinite/perfect + before + present perfect 
+ When 'after' uses a conjunction :
+      future indefinite/perfect + after + present perfect 
       I shall go home after I have finished the work.     
       
       

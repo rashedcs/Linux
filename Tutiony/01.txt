@@ -1,0 +1,9 @@
+When 'since' uses a conjunction :
+  #Present indefinite/perfect + since + past indefinite#
+  It is many times since i met you last.
+  
+  #Past indefinite + since + past perfect#
+  It was long time since I had longed for anything.
+  
+  
+When 'that' uses a conjunction :

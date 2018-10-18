@@ -7,13 +7,13 @@ When 'since' uses a conjunction :
   
   
 When 'that' uses a conjunction :
-     ##Present indefinite + that + (Subject + am/is/are/can + V1 + extension)##
+     ##Present indefinite + that + (Subject + am/is/are/can + extension)##
      He says that his grandmother is one hundred years old.
      
-     ##Past indefinite + that + (Subject + was/were + V2 + extension)##
+     ##Past indefinite + that + (Subject + was/were + extension)##
      He said that he did go there.
     
-     #Past indefinite + that + (Subject + should/would/could + V1 + extension)# --> 2nd clause is indicates future tense
+     #Past indefinite + that + (Subject + should/would/could + extension)# --> 2nd clause is indicates future tense
      He said that he would help me with my homework.
      
      N.B: 2nd clause contains of next year/day/month.

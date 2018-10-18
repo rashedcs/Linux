@@ -1,13 +1,13 @@
 When 'since' uses a conjunction :
-  #Present indefinite/perfect + since + past indefinite#
+  ##Present indefinite/perfect + since + past indefinite##
   It is many times since i met you last.
   
-  #Past indefinite + since + past perfect#
+  ##Past indefinite + since + past perfect##
   It was long time since I had longed for anything.
   
   
 When 'that' uses a conjunction :
-     #Present indefinite + that + (Subject + am/is/are/can/may + V1 + extension)#
+     ##Present indefinite + that + (Subject + am/is/are/can/may + V1 + extension)##
      He says that his grandmother is one hundred years old.
     
      #Past indefinite + that + (Subject + should/would/could + V1 + extension)#

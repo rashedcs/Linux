@@ -41,8 +41,8 @@ When 'that' uses a conjunction :
      
      
 Special Rule :
-To be verb + present participle (Active voice case) : Sugar is imported from china.
-To be verb + past participle (Passive voice)  : Company is importing from china.
+To be verb + present participle (Active voice case) : Company is importing from china.
+To be verb + past participle (Passive voice)  :  Sugar is imported from china.
      
 
 

@@ -7,3 +7,16 @@ When 'since' uses a conjunction :
   
   
 When 'that' uses a conjunction :
+     #Present indefinite + that + (Subject + am/is/are/can/may + V1 + extension)#
+     He says that his grandmother is one hundred years old.
+    
+     #Past indefinite + that + (Subject + should/would/could + V1 + extension)#
+     He said that he would help me with my homework.
+     
+     #Past indefinite + that + past perfect#
+     I thouht that I had seen her before.
+     
+     
+     
+
+

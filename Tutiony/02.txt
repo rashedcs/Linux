@@ -56,12 +56,30 @@ Affirmative 2 Negative :
       Example 1: We have nothing to do.   -> Have we anything to do? 
 
 
+  Affirmative 2 Imperative : 
+   1. Subject 2nd person + Auxiliary verb + Verb +Extension -> Verb + extension
+      Example 1: You must obey your parents.   -> Obey your parents.
+      
+   2. Subject 2nd person + Auxiliary verb + Not + Verb +Extension -> Do not + Verb + extension
+      Example 1: You should not run in the sun.   -> Do not run in the sun. 
+   
+   3. Contain ' Request ' word -> Please/Kindly + verb + extension
+      Example 1: I request you to do it.   -> Please do it. 
+      
+   4. Subject 1nd person or 3rd Person -> Let + objective pronoun (me/us/him/her/them) + verb +
+      Example 1: I must go now.   -> Let me go now. 
      
 
-     
+  Affirmative 2 Exclamatory : 
+  
+   1. I wish -> If
+      Example 1: I wish I were a bird.   -> If I were a bird!
+      
+   2. With Article -> What + article + Adjective/Adverb + Subject + verb + ! (very/great/most/indeed are skipped)
+      Example 1: You are a great man   -> What a man you are !
 
-
-
+   3. Without Article -> How + Adjective/Adverb + Subject + verb + !
+      Example 1: The scenery is very charming   -> How charming the scenery is !
      
 
 

@@ -1,8 +1,10 @@
+Change of Sentence - 1
 Affirmative 2 Negative : 
   1. Only/Alone -> None but / Nothing but / Not more than 
      Example 1: Only Siam can do this sum -> None but Siam can do the sum.
-     Example 2: He needs a pen only -> He needs nothing but a pen.
-     Example 3: Priyom is only six -> Priyom is not more than six.
+     Example 2: Only a few toys are needed -> Nothing but a few toys are needed.
+     Example 3: He needs a pen only -> He needs nothing but a pen.
+     Example 4: Priyom is only six -> Priyom is not more than six.
      
   2. Must/Have to/Has to->can not but  or Had to->could not but
      Example 1: I must go there  -> I can not but go there.
@@ -20,8 +22,8 @@ Affirmative 2 Negative :
      Example 1: Everyone always remembers him  -> Everyone never forgets him.
      
   7. Sometimes->Not always and use antonyms of verb or adjective   
-     Example 1: He is sometimes foolish  -> He is not always wise.
-     
+     Example 1: He is sometimes foolish  -> He is not always wise.   
+   
   8. Auxiliary verb -> Auxiliary verb + not and use antonyms of verb or adjective   
      Example 1: He is a good man  -> He is not a bad man.
      
@@ -35,7 +37,14 @@ Affirmative 2 Negative :
      Example 1: The man too weak to walk   -> The man is so weak that he can not walk.   
 
   12.Universal truth / present continuous -> It is not that + Subject + auxiliary verb + not + extension
-     Example 1: Ice floats on water   -> It is not that Ice does not float on water.   
+     Example 1: Ice floats on water   -> It is not that Ice does not float on water.  
+     
+  13. Much = not a little
+      Example : I have much money -> I have not a little money.
+     
+  14. A few = not many
+      Example : I have a few friends -> I have not many friends.
+      
 
      
  

@@ -39,7 +39,23 @@ Affirmative 2 Negative :
 
      
  
- 
+ Affirmative 2 Interrogative : 
+   1. Auxiliary verb -> Auxiliary verb + not + extension   
+      Example 1: He is a good man  -> Isn't He a bad man?
+      
+   2. Without Auxiliary verb -> Do verb + not +extension
+      Example 1: Rina sings very well   -> Doesn't Liza sing very well?
+      
+   3. All/Everone/Everbody + verb -> Who + auxiliary verb + not + verb 
+      Example 1: Everbody knows this   -> Who does not know this?
+      
+   4. None/no one/nobody + verb -> Who + auxiliary verb + verb 
+      Example 1: Nobody wishes to be un happy   -> Who wishes to be un happy?  
+
+   5. Nothing -> Anything
+      Example 1: We have nothing to do.   -> Have we anything to do? 
+
+
      
 
      

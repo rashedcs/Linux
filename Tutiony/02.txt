@@ -4,9 +4,20 @@ Affirmative 2 Negative :
      Example 2: He needs a pen only -> He needs nothing but a pen.
      Example 3: Priyom is only six -> Priyom is not more than six.
      
-     
   2. Must/Have to/Has to->can not but  or Had to->could not but
      Example 1: I must go there  -> I can not but go there.
+     
+  3. Everybody->Nobody, Everyone->None 
+     Example 1: Everybody should admit the truth  -> Nobody should deny the truth.
+     
+  4. Every + noun + have/has + extension -> There is no + noun + without + extension.
+     Example 1: Every rose has a throne  -> There is no rose without throne.
+     
+  5. Every + noun + transitive verb + extension -> There is no + noun + but + verb + extension.
+     Example 1: Every mother loves her child  -> There is no mother but loves her child.
+
+
+
      
 
 

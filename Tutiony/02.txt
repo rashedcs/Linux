@@ -34,6 +34,9 @@ Affirmative 2 Negative :
   11.Too...to -> So.....that + Subject + can not/could not + verb
      Example 1: The man too weak to walk   -> The man is so weak that he can not walk.   
 
+  12.Universal truth / present continuous -> It is not that + Subject + auxiliary verb + not + extension
+     Example 1: Ice floats on water   -> It is not that Ice does not float on water.   
+
      
  
  

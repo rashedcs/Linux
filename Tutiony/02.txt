@@ -1,2 +1,13 @@
-Affirmative 2 Negative :
+Affirmative 2 Negative : 
+  1. Only/Alone -> None but / Nothing but / Not more than 
+     Example 1: Only Siam can do this sum -> None but Siam can do the sum.
+     Example 2: He needs a pen only -> He needs nothing but a pen.
+     Example 3: Priyom is only six -> Priyom is not more than six.
+     
+     
+  2. Must/Have to/Has to->can not but  or Had to->could not but
+     Example 1: I must go there  -> I can not but go there.
+     
+
+
 

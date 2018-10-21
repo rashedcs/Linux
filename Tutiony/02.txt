@@ -7,14 +7,39 @@ Affirmative 2 Negative :
   2. Must/Have to/Has to->can not but  or Had to->could not but
      Example 1: I must go there  -> I can not but go there.
      
-  3. Everybody->Nobody, Everyone->None 
+  3. Everybody->Nobody, Everyone->None  and use antonyms of verb or adjective
      Example 1: Everybody should admit the truth  -> Nobody should deny the truth.
      
-  4. Every + noun + have/has + extension -> There is no + noun + without + extension.
+  4. Every + noun + have/has + extension -> There is no + noun + without + extension and use antonyms of verb or adjective
      Example 1: Every rose has a throne  -> There is no rose without throne.
      
   5. Every + noun + transitive verb + extension -> There is no + noun + but + verb + extension.
      Example 1: Every mother loves her child  -> There is no mother but loves her child.
+     
+  6. Always->Never and and use antonyms of verb or adjective
+     Example 1: Everyone always remembers him  -> Everyone never forgets him.
+     
+  7. Sometimes->Not always and use antonyms of verb or adjective   
+     Example 1: He is sometimes foolish  -> He is not always wise.
+     
+  8. Auxiliary verb -> Auxiliary verb + not and use antonyms of verb or adjective   
+     Example 1: He is a good man  -> He is not a bad man.
+     
+  9. Without Auxiliary verb -> Subject + do not/does not/did not +  and use antonyms of verb or adjective   
+     Example 1: He walks fast  -> He does not walk slowly.   
+  
+  10.As soon as -> No sooner had i.e As soon as add two past indefinite tence
+     Example 1: As soon as he came here, I met him   -> No sooner had he come here than I met him.   
+  
+  11.Too...to -> So.....that + Subject + can not/could not + verb
+     Example 1: The man too weak to walk   -> The man is so weak that he can not walk.   
+
+     
+ 
+ 
+     
+
+     
 
 
 

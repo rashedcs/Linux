@@ -12,4 +12,4 @@ function prime()
 }
 
 read num;
-prime "$num";
+prime $num;

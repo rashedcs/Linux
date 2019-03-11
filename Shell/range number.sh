@@ -6,6 +6,5 @@ function prime()
     done
 }
 
-read m;
-read n;
+read m n;
 prime $m $n;

@@ -1,4 +1,4 @@
-function prime()
+function factorial()
 {
     mul=1
     for((i=2; i<=n; i++))
@@ -9,4 +9,4 @@ function prime()
 }
 
 read n;
-prime $n
+factorial $n

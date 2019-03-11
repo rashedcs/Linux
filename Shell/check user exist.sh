@@ -1,14 +1,14 @@
 
 function checkUser()
 {
-    grep $user /etc/passwd > /dev/null
-    if [ $? -eq 1 ] 
+    if grep -q  $user /etc/passwd
     then
-        echo "$user does not exists "
+        echo "$user does  exists "
     else
-        echo "$user does exists"
+        echo "$user does not exists"
     fi
 }
 
 read user;
 checkUser $user;
+

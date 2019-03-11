@@ -1,10 +1,12 @@
-function print()
+function summation()
 {
+    sum=0
     for((i=m; i<=n; i++))
-    do
-            echo $i
-    done
+    {
+        sum=`expr $sum + $i` 
+    }
+    echo $sum
 }
 
 read m n;
-print $m $n;
+summation $m $n;

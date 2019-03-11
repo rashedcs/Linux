@@ -1,5 +1,10 @@
-#!/bin/bash
-for ((i=1; i<=20; i=i+1))
-do 
-      echo $i
-done
+function print()
+{
+    for ((i=1; i<=n; i++))
+    do 
+          echo  $i
+    done
+}
+
+read n
+print $n

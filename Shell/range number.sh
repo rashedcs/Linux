@@ -1,4 +1,4 @@
-function prime()
+function print()
 {
     for((i=m; i<=n; i++))
     do
@@ -7,4 +7,4 @@ function prime()
 }
 
 read m n;
-prime $m $n;
+print $m $n;

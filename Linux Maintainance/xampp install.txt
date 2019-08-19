@@ -1,1 +1,24 @@
 http://www.codebind.com/linux-tutorials/install-xampp-ubuntu-16-04/
+
+
+Step 1: 
+Download : https://www.apachefriends.org/xampp-files/7.3.8/xampp-linux-x64-7.3.8-2-installer.run
+
+Step 2: 
+sudo chmod +x xampp-linux-x64-7.3.8-2-installer.run
+
+Step 3:
+sudo ./xampp-linux-x64-7.3.8-2-installer.run
+
+
+
+Xampp Start : sudo /opt/lampp/lampp start 
+Xampp Stop  : sudo /opt/lampp/lampp stop
+
+
+Laravel Install :
+curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+
+
+
+

@@ -26,7 +26,7 @@ $ sudo mv composer.phar /usr/local/bin/composer##
 
 
 Create project : 
-composer create-project --prefer-dist laravel/laravel
+composer create-project --prefer-dist laravel/laravel project
 
 
 The go to your project file as your desired drive and commands : php artisan serve

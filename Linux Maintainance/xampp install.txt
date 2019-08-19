@@ -33,5 +33,9 @@ The go to your project file as your desired drive and commands : php artisan ser
 
 Reference : https://www.journaldev.com/26623/install-laravel-on-ubuntu
 
+you have to try update php otherwise problem occurs.
+
+https://stackoverflow.com/questions/41790281/erroryour-requirements-could-not-be-resolved-to-an-installable-set-of-packages
+
 
 

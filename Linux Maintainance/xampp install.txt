@@ -25,5 +25,7 @@ $ sudo mv composer.phar /usr/local/bin/composer
 
 The go to your project file as your desired drive and commands : php artisan serve
 
+Reference : https://www.journaldev.com/26623/install-laravel-on-ubuntu
+
 
 

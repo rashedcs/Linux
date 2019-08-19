@@ -37,5 +37,9 @@ you have to try update php otherwise problem occurs.
 
 https://stackoverflow.com/questions/41790281/erroryour-requirements-could-not-be-resolved-to-an-installable-set-of-packages
 
+sudo apt-get install php-mbstring
+
+sudo apt install php-xml
+
 
 

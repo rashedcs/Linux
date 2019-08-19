@@ -19,6 +19,11 @@ Xampp Stop  : sudo /opt/lampp/lampp stop
 Laravel Install :
 curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 
+Composer running globally, we must move it to the /usr/local/bin directory under 'composer' name.
+$ sudo mv composer.phar /usr/local/bin/composer
+
+
+The go to your project file as your desired drive and commands : php artisan serve
 
 
 

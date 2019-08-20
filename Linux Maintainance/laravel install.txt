@@ -41,6 +41,12 @@ php artisan config:clear
 Laravel Commamds :
 1. Make authentication : php artisan make:auth
 2. Make Admin controller in Admin folder : php artisan make:controller Admin/HomeController.php
+3. Make Users Table : php artisan make:migration create_users_table
+4. Migrate Table : php artisan migrate
+5. php artisan db:seed
+
+
+
 
 
 Reference : 

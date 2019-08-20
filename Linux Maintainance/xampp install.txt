@@ -1,6 +1,6 @@
 http://www.codebind.com/linux-tutorials/install-xampp-ubuntu-16-04/
 
-
+Xampp Install Process:
 Step 1: 
 Download : https://www.apachefriends.org/xampp-files/7.3.8/xampp-linux-x64-7.3.8-2-installer.run
 
@@ -11,35 +11,14 @@ Step 3:
 sudo ./xampp-linux-x64-7.3.8-2-installer.run
 
 
+Xampp On/Off Commands
+Start : 
+sudo /opt/lampp/lampp start 
 
-Xampp Start : sudo /opt/lampp/lampp start 
-Xampp Stop  : sudo /opt/lampp/lampp stop
-
-
-Laravel Install :
-curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
-
-##Composer running globally, if we do not give the installation directory
-(-- --install-dir=/usr/local/bin --filename=composer)  
-then we must move it to the /usr/local/bin directory under 'composer' name.
-$ sudo mv composer.phar /usr/local/bin/composer##
+Stop  : 
+sudo /opt/lampp/lampp stop
 
 
-Create project : 
-composer create-project --prefer-dist laravel/laravel project
-
-
-The go to your project file as your desired drive and commands : php artisan serve
-
-Reference : https://www.journaldev.com/26623/install-laravel-on-ubuntu
-
-you have to try update php otherwise problem occurs.
-
-https://stackoverflow.com/questions/41790281/erroryour-requirements-could-not-be-resolved-to-an-installable-set-of-packages
-
-sudo apt-get install php-mbstring
-
-sudo apt install php-xml
 
 
 

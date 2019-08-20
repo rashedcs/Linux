@@ -1,4 +1,4 @@
-Install composer
+#Install composer#
 curl -sS https://getcomposer.org/installer | php
 
 #Move the composer folder#

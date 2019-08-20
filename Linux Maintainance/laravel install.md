@@ -1,7 +1,7 @@
 Install composer
 curl -sS https://getcomposer.org/installer | php
 
-Move the composer folder
+#Move the composer folder#
 sudo mv composer.phar /usr/local/bin/composer
 
 1st way Globally

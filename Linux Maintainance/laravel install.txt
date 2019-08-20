@@ -33,6 +33,10 @@ Solve php pacakage problem
 sudo apt-get install php-mbstring
 sudo apt install php-xml
 
+php artisan config:clear
+
+
+
 
 Laravel Commamds :
 1. Make authentication : php artisan make:auth
@@ -43,4 +47,5 @@ Reference :
 https://www.journaldev.com/26623/install-laravel-on-ubuntu
 https://itrendbuzz.com/install-laravel-framework-on-ubuntu/
 https://stackoverflow.com/questions/41790281/erroryour-requirements-could-not-be-resolved-to-an-installable-set-of-packages
+https://stackoverflow.com/questions/46407490/laravel-no-such-file-or-directory-sql-create-table-migrations
 

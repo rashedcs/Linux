@@ -36,6 +36,12 @@ sudo apt install php-xml
 php artisan config:clear
 
 
+Migrate Problem in Linux :  change .env file host and port
+DB_HOST=127.0.0.1
+DB_PORT=3306
+
+php artisan config:clear
+
 
 
 Laravel Commamds :

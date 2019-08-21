@@ -42,6 +42,10 @@ DB_PORT=3306
 
 php artisan config:clear
 
+Solve old project issue ;
+composer install
+
+
 
 
 Laravel Commamds :

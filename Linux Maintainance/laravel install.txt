@@ -44,6 +44,8 @@ php artisan config:clear
 
 Solve old project issue ;
 composer install
+php artisan key:generate
+
 
 
 

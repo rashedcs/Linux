@@ -1,3 +1,7 @@
 https://github.com/srehanuddin/Ionic2-ResturantApp
 
 https://stackblitz.com/edit/ionic-travel
+
+https://github.com/JamiBot/Ionic-4-Calculator-Example
+
+https://github.com/Balintataw/restaurant-mobile-app

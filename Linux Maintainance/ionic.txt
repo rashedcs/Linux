@@ -9,3 +9,7 @@ https://github.com/Balintataw/restaurant-mobile-app
 
 Install :
 https://www.howtoforge.com/tutorial/ubuntu-ionic-framework/
+
+       - Go to your newly created project: cd ./HelloWorld
+       - Run ionic serve within the app directory to see your app
+

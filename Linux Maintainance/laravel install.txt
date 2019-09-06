@@ -46,6 +46,7 @@ Solve old project issue ;
 composer install
 php artisan key:generate
 
+Laravel Password Encryption : https://codebriefly.com/basic-understanding-laravel-encryption/
 
 
 

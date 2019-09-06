@@ -5,3 +5,7 @@ https://stackblitz.com/edit/ionic-travel
 https://github.com/JamiBot/Ionic-4-Calculator-Example
 
 https://github.com/Balintataw/restaurant-mobile-app
+
+
+Install :
+https://www.howtoforge.com/tutorial/ubuntu-ionic-framework/

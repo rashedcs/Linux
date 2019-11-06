@@ -1,0 +1,4 @@
+First Ruby components.
+
+sudo apt install jekyll
+jekyll new blog

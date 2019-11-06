@@ -1,13 +1,15 @@
-First Ruby components.
-
-sudo apt install jekyll
-jekyll new blog
+Install Jekyll :
 
 
-2nd way :
 sudo apt-get update
 sudo apt-get install ruby-full
 sudo gem install jekyll
+sudo bundle install
+
+
+Run Server :
+bundle exec jekyll serve
+
 
 
 
@@ -15,3 +17,4 @@ sudo gem install jekyll
 
 
 Reference : https://www.youtube.com/watch?v=nN6QuNqmAwk
+https://www.youtube.com/watch?v=nN6QuNqmAwk

@@ -10,7 +10,7 @@ sudo bundle install
 Run Server :
 bundle exec jekyll serve
 
-
+https://devblast.com/b/create-a-static-websiteblog-with-jekyll-and-github-pages
 
 
 

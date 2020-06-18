@@ -1,0 +1,3 @@
+sudo chown -R youruser:youruser /opt/lampp/htdocs 
+
+Also you can make changes in httpd.conf file: sudo gedit /opt/lampp/etc/httpd.conf

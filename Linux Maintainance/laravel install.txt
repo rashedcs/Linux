@@ -6,6 +6,12 @@ curl -sS https://getcomposer.org/installer | php
 Then move the composer folder
 sudo mv composer.phar /usr/local/bin/composer
 
+
+Curl Install :
+sudo apt install curl
+Php Install :
+sudo apt install php7.2-cli
+
 2nd way install composer
 curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
 
@@ -47,6 +53,7 @@ composer install
 php artisan key:generate
 
 Laravel Password Encryption : https://codebriefly.com/basic-understanding-laravel-encryption/
+
 
 
 

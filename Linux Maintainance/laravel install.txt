@@ -1,3 +1,21 @@
+## latest easy way ##
+Step 1 : wget https://getcomposer.org/composer.phar
+Step 2 : 
+      2.1 : chmod +x ./composer.phar 
+      2.2 : mv ./composer.phar /usr/bin/composer
+
+Step 3 : composer --version
+
+
+
+
+
+
+
+
+
+
+
 
 1st way install composer
 Install composer
